@@ -1,6 +1,10 @@
 [
   {
-      "nombre": "DIRECTV",
-      "texto": "Hola! /cliente/, soy /nombre/ de *Directv* además del fútbol uruguayo sin costo, tenemos por este mes un *plan al 50%25 sin costo de conexión*. %0A¿Cuando preferís que te llame y hablamos?%0ASi te queda mejor puedo informarte por whatsapp.%0A*Gracias y estamos en contacto.*"
+      "nombre": "Nuevos",
+      "texto": "Hola!, soy /nombre/ de *Directv* además del fútbol uruguayo sin costo, tenemos por este mes un *plan al 50%25 sin costo de conexión*. %0A¿Cuando preferís que te llame y hablamos?%0ASi te queda mejor puedo informarte por whatsapp.%0A*Gracias y estamos en contacto.*"
+  },
+  {
+      "nombre": "Clientes atendidos",
+      "texto": "Hola!, soy /nombre/ de *Directv* estuvimos hablando hace unos dias y queria recordarte que tenemos por este mes un *plan al 50%25 sin costo de conexión*. %0A¿Cuando preferís que te llame y hablamos?%0ASi te queda mejor puedo informarte por whatsapp.%0A*Gracias y estamos en contacto.*"
   }
 ]
