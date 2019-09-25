@@ -1,18 +1,6 @@
 [
   {
-      "nombre": "antonio",
-      "texto": "hola antonio, Lorem ipsum lacinia sagittis non fringilla nunc convallis eu, tempus nam tempus varius hac taciti litora nibh laoreet scelerisque lobortis maecenas platea feugiat, ultricies diam quis aptent faucibus dictumst scelerisque, aenean facilisis lacus cras class."
-  },
-  {
-      "nombre": "ejemploB",
-      "texto": "Ejemplo B, Lorem ipsum lacinia sagittis non fringilla nunc convallis eu, tempus nam tempus varius hac taciti litora nibh laoreet scelerisque lobortis maecenas platea feugiat, ultricies diam quis aptent faucibus dictumst scelerisque, aenean facilisis lacus cras class."
-  },
-  {
-      "nombre": "ejemploC",
-      "texto": "Ejemplo C, Lorem ipsum lacinia sagittis non fringilla nunc convallis eu, tempus nam tempus varius hac taciti litora nibh laoreet scelerisque lobortis maecenas platea feugiat, ultricies diam quis aptent faucibus dictumst scelerisque, aenean facilisis lacus cras class."
-  },
-  {
-      "nombre": "ejemploD",
-      "texto": "Ejemplo D, Lorem ipsum lacinia sagittis non fringilla nunc convallis eu, tempus nam tempus varius hac taciti litora nibh laoreet scelerisque lobortis maecenas platea feugiat, ultricies diam quis aptent faucibus dictumst scelerisque, aenean facilisis lacus cras class."
+      "nombre": "DIRECTV",
+      "texto": "Hola! /cliente/, soy /nombre/ de *Directv* éste año además del fútbol uruguayo sin costo, tenemos por este mes tenemos un *plan al 50% sin costo de conexion*. gran oferta de canales y contenidos.\n  ¿Cuando preferís que te llame y hablamos?/nSi te queda mejor puedo informarte por whatsapp./n Gracias y estamos en contacto."
   }
 ]
