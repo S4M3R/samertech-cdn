@@ -1,14 +1,14 @@
 [
   {
       "nombre": "Instructivo",
-      "texto": "Escriba aqui su mensaje. Use Vendedor /Nombre/ --- Nombre de la Empresa /Empresa/  Nombre del Cliente /Cliente/ puede usar *Negrita* y %0A Salto Linea"
+      "texto": "Escriba aqui su mensaje. Use Vendedor /nombre/ --- Nombre de la Empresa /empresa/  Nombre del Cliente /cliente/ puede usar *Negrita* y %0A Salto Linea"
   },
   {
       "nombre": "LN - Inicio",
-      "texto": "Hola, mi nombre es /Nombre/ de *LINCOLNS*, quiero presentarle nuestros *regalos empresariales personalizados* que le permite fidelizar a sus clientes y colaboradores perdurando en el tiempo. %0A Me gustaria presentarle nuestra propuesta, seguro *tenemos el regalo acorde a su presupuesto* para posicionar tu marca y aumentar su sensación de pertenencia con sus colaboradores. %0A Desea que le envié los precios?"  
+      "texto": "Hola, mi nombre es /nombre/ de *LINCOLNS*, quiero presentarle nuestros *regalos empresariales personalizados* que le permite fidelizar a sus clientes y colaboradores perdurando en el tiempo. %0A Me gustaria presentarle nuestra propuesta, seguro *tenemos el regalo acorde a su presupuesto* para posicionar tu marca y aumentar su sensación de pertenencia con sus colaboradores. %0A Desea que le envié los precios?"  
   },
   {
       "nombre": "LN - Recontacto",
-      "texto": "Hola, Soy /Nombre/ de *LINCOLNS*, hace unos días nos contactamos para presentarle nuestra propuesta de *regalos empresariales personalizados*, seguro tenemos el regalo *acorde a su presupuesto*. Desea recibir una cotización?"
+      "texto": "Hola, Soy /nombre/ de *LINCOLNS*, hace unos días nos contactamos para presentarle nuestra propuesta de *regalos empresariales personalizados*, seguro tenemos el regalo *acorde a su presupuesto*. Desea recibir una cotización?"
   }
 ]
